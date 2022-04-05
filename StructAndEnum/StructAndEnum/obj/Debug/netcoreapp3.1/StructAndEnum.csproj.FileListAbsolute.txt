@@ -1,0 +1,14 @@
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\bin\Debug\netcoreapp3.1\StructAndEnum.exe
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\bin\Debug\netcoreapp3.1\StructAndEnum.deps.json
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\bin\Debug\netcoreapp3.1\StructAndEnum.runtimeconfig.json
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\bin\Debug\netcoreapp3.1\StructAndEnum.runtimeconfig.dev.json
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\bin\Debug\netcoreapp3.1\StructAndEnum.dll
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\bin\Debug\netcoreapp3.1\StructAndEnum.pdb
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\obj\Debug\netcoreapp3.1\StructAndEnum.csproj.AssemblyReference.cache
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\obj\Debug\netcoreapp3.1\StructAndEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\obj\Debug\netcoreapp3.1\StructAndEnum.AssemblyInfoInputs.cache
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\obj\Debug\netcoreapp3.1\StructAndEnum.AssemblyInfo.cs
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\obj\Debug\netcoreapp3.1\StructAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\obj\Debug\netcoreapp3.1\StructAndEnum.dll
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\obj\Debug\netcoreapp3.1\StructAndEnum.pdb
+C:\Users\ngova\source\repos\StructAndEnum\StructAndEnum\obj\Debug\netcoreapp3.1\StructAndEnum.genruntimeconfig.cache
